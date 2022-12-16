@@ -1,9 +1,9 @@
 ## Citing
 
-###BibTeX
+### BibTeX
 
 ```bibtex
-@misc{GRU commit,
+@misc{grucommit,
   author = {baibai},
   title = {models},
   year = {2022},
